@@ -182,5 +182,12 @@ namespace Car
             reserva.Show();
             this.Close();
         }
+
+        private void btnConsultaContratos_Click(object sender, EventArgs e)
+        {
+            ContratoDetalle contrato = new ContratoDetalle();
+            contrato.Show();
+            this.Close();
+        }
     }
 }

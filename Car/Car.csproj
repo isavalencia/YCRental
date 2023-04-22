@@ -90,6 +90,12 @@
     <Compile Include="ConsultaReservas.Designer.cs">
       <DependentUpon>ConsultaReservas.cs</DependentUpon>
     </Compile>
+    <Compile Include="ContratoDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContratoDetalle.Designer.cs">
+      <DependentUpon>ContratoDetalle.cs</DependentUpon>
+    </Compile>
     <Compile Include="Empleados.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -110,6 +116,12 @@
     </Compile>
     <Compile Include="Registro Alquiler.Designer.cs">
       <DependentUpon>Registro Alquiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroContrato.Designer.cs">
+      <DependentUpon>RegistroContrato.cs</DependentUpon>
     </Compile>
     <Compile Include="RegistroReservas.cs">
       <SubType>Form</SubType>
@@ -149,6 +161,7 @@
     <EmbeddedResource Include="ConsultaReservas.resx">
       <DependentUpon>ConsultaReservas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ContratoDetalle.resx" />
     <EmbeddedResource Include="Empleados.resx">
       <DependentUpon>Empleados.cs</DependentUpon>
     </EmbeddedResource>
@@ -166,6 +179,9 @@
     </Compile>
     <EmbeddedResource Include="Registro Alquiler.resx">
       <DependentUpon>Registro Alquiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroContrato.resx">
+      <DependentUpon>RegistroContrato.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RegistroReservas.resx">
       <DependentUpon>RegistroReservas.cs</DependentUpon>
