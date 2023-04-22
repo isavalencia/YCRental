@@ -76,6 +76,7 @@
       <DependentUpon>Administrador.cs</DependentUpon>
     </Compile>
     <Compile Include="Clases\Alquileres.cs" />
+    <Compile Include="Clases\Contrato.cs" />
     <Compile Include="Clases\Reserva.cs" />
     <Compile Include="ConsultaAlquileres.cs">
       <SubType>Form</SubType>
