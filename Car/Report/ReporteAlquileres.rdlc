@@ -140,7 +140,7 @@
                   <Value>COLONIA DINA, CONTIGUO A CALLE</Value>
                   <Style>
                     <FontSize>9pt</FontSize>
-                    <Color>DimGray</Color>
+                    <FontWeight>Bold</FontWeight>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -154,7 +154,7 @@
                   <Value>MONSERRAT #107 SAN SALVADOR</Value>
                   <Style>
                     <FontSize>9pt</FontSize>
-                    <Color>DimGray</Color>
+                    <FontWeight>Bold</FontWeight>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -168,7 +168,7 @@
                   <Value>EL SALVADOR (503) 6303 7690</Value>
                   <Style>
                     <FontSize>9pt</FontSize>
-                    <Color>DimGray</Color>
+                    <FontWeight>Bold</FontWeight>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -182,7 +182,7 @@
                   <Value>USA(240) 437-6467</Value>
                   <Style>
                     <FontSize>9pt</FontSize>
-                    <Color>DimGray</Color>
+                    <FontWeight>Bold</FontWeight>
                   </Style>
                 </TextRun>
               </TextRuns>
@@ -196,7 +196,7 @@
                   <Value>E-mail: yalexcarrental@gmail.com</Value>
                   <Style>
                     <FontSize>9pt</FontSize>
-                    <Color>DimGray</Color>
+                    <FontWeight>Bold</FontWeight>
                   </Style>
                 </TextRun>
               </TextRuns>
